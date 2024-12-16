@@ -1,0 +1,11 @@
+:root {
+  --body-fs: 1.6rem;
+  --body-lh: 1.5;
+  --main-ff: "Poppins", sans-serif;
+  --color-dark: #232536;
+  --color-blue: #4f56ff;
+  --color-accont-yellow: #ffd3af;
+  --color-white: #ffffff;
+  --color-orange: #ffa155;
+  --color-white-opacity: rgba(255, 255, 255, 0.4);
+}
